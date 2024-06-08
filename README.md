@@ -6,6 +6,7 @@
             - Nguyễn Mạnh Linh
             - Hoàng Văn Quang
             - Nguỵ Khắc Phi Long
+            - Nguyễn Minh Chiến
 
 - Link slide:
 - Link demo: 
