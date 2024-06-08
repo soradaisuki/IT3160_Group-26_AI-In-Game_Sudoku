@@ -1,5 +1,5 @@
 # IT3160_Group-26_AI-In-Game_Sudoku
-Đề tài: PHẦN MỀM TỰ GIẢI SUDOKU BẰNG TRÍ TUỆ NHÂN TẠO 
+# Đề tài: PHẦN MỀM TỰ GIẢI SUDOKU BẰNG TRÍ TUỆ NHÂN TẠO 
 Thành viên: Lương Nguyễn Quốc Tùng (Leader)
             Lê Anh Đạt
             Nguyễn Mạnh Linh
