@@ -8,5 +8,5 @@
             - Nguỵ Khắc Phi Long
             - Nguyễn Minh Chiến
 
-- Link slide:
-- Link demo: 
+- Link slide: https://docs.google.com/presentation/d/1VsHuBE8kUbYhJb183YyicoK61-Bdx182WXk0F1c81eY/edit?usp=sharing
+- Link demo: https://youtu.be/gY3Pkc71M9k
